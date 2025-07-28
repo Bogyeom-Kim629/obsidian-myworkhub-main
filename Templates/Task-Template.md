@@ -1,8 +1,8 @@
 ---
-id: TASK-<% tp.date.now("YYYYMMDD") %>-001
-title: <% tp.file.title %>
+id: TASK-20250728-001
+title: Task-Template
 type: task
-due: <% tp.date.now("YYYY-MM-DD") %>
+due: 2025-07-28
 complexity: 
 stakeholder: 
 reporting_to: 
