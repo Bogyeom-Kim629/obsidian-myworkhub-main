@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07960a19d7f7e565",
+        "id": "cb522ccc880290f7",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc88109c0caeae4",
+            "id": "296a78d3510e6b0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-28.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-28"
             }
           }
         ]
@@ -165,19 +169,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bc88109c0caeae4",
+  "active": "296a78d3510e6b0f",
   "lastOpenFiles": [
+    "Notes/Daily Note.md",
+    "2025-07-28.md",
+    "Tasks/LRM Template Work.md",
+    "Pasted image 20250723142849.png",
+    "Templates/Task-Template.md",
+    "MoM/Note_Taking_20250625.md",
+    "MoM/20250626_LRM3 Meeting.md",
     "Record_note/July 2025.md",
     "summarize_tasks_openai.py",
     "Templates/summarize_tasks.py",
-    "Templates/Task-Template.md",
-    "Tasks/LRM Template Work.md",
     "Tasks",
-    "Pasted image 20250723142849.png",
-    "Notes/Daily Note.md",
     "Notes",
-    "MoM/Note_Taking_20250625.md",
-    "MoM/20250626_LRM3 Meeting.md",
     "MoM",
     "git",
     "New 텍스트 문서.txt",
